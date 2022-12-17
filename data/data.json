@@ -1,0 +1,66 @@
+[
+  {
+    "name": "hello",
+    "pronounce": "/halo/",
+    "noun": [
+      {
+        "descriptionNoun": "xin chao",
+        "sampleSentencesNoun": "hello baby/chao em"
+      }
+    ],
+    "verb": [],
+    "adjective": [],
+    "similarWords": "hi, what's  up"
+  },
+  {
+    "name": "positive",
+    "pronounce": "/'pozətiv/",
+    "noun": [
+      {
+        "descriptionNoun": "Tính chất xác thực, số lượng xác thực;",
+        "sampleSentencesNoun": "take your weaknesses and translate them into positives/nhận ra điểm yếu của bạn và chuyển chúng thành tích cực"
+      },
+      { "descriptionNoun": "", "sampleSentencesNoun": "" }
+    ],
+    "verb": [],
+    "adjective": [
+      {
+        "descriptionAdjective": "Xác thực, rõ ràng",
+        "sampleSentencesAdjective": "a positive proof/một chứng cớ rõ ràng"
+      },
+      {
+        "descriptionAdjective": "Tích cực",
+        "sampleSentencesAdjective": "a positive factor/một nhân tố tích cực"
+      }
+    ],
+    "similarWords": " Positive correlation, Positive economics"
+  },
+  {
+    "name": "read",
+    "pronounce": "/ri:d/",
+    "noun": [
+      {
+        "descriptionNoun": "Thời gian dành để đọc (sách báo)",
+        "sampleSentencesNoun": "to have a quiet read/có thời gian yên tĩnh để đọc"
+      },
+      { "descriptionNoun": "Sự đọc (sách báo)", "sampleSentencesNoun": "" }
+    ],
+    "verb": [
+      {
+        "descriptionVerb": "Đọc",
+        "sampleSentencesNoun": "this play reads better than it acts/vở kịch này đọc nghe hay hơn là đem diễn"
+      },
+      {
+        "descriptionNoun": "Học, nghiên cứu",
+        "sampleSentencesNoun": "to read for the examination/học để chuẩn bị thi"
+      }
+    ],
+    "adjective": [
+      {
+        "descriptionAdjective": "Có học thức thông thạo, thông thái",
+        "sampleSentencesAdjective": "deeply read in literature/hiểu sâu về văn học"
+      }
+    ],
+    "similarWords": "apprehend , bury oneself in , comprehend , construe"
+  }
+]
